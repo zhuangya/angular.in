@@ -9,7 +9,7 @@
   "author": "Ya Zhuang <zhuangya@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "~3.4.5",
-    "level": "~0.18.0"
+    "express": "~4.17.1",
+    "level": "~5.0.1"
   }
 }
